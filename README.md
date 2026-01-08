@@ -1,1 +1,15 @@
-# Workshop Booking Web เว็บสำหรับจอง workshop 
+# Workshop Booking Web Application
+
+เว็บแอปพลิเคชันสำหรับจอง workshop ในนิทรรศการดอกไม้
+
+## รายละเอียด
+พัฒนาเว็บสำหรับให้ผู้ใช้งานลงทะเบียนและจอง workshop ผ่านระบบออนไลน์ โดยจัดเก็บข้อมูลด้วย MySQL และ deploy บน InfinityFree
+
+## เทคโนโลยีที่ใช้
+- HTML  
+- CSS  
+- JavaScript  
+- MySQL  
+
+## วัตถุประสงค์
+เพื่ออำนวยความสะดวกในการจองกิจกรรมผ่านระบบออนไลน์
